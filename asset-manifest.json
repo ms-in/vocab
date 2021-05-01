@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vocab/static/css/main.aed71bb5.chunk.css",
+    "main.js": "/vocab/static/js/main.f3333a58.chunk.js",
+    "main.js.map": "/vocab/static/js/main.f3333a58.chunk.js.map",
+    "runtime-main.js": "/vocab/static/js/runtime-main.52809f3a.js",
+    "runtime-main.js.map": "/vocab/static/js/runtime-main.52809f3a.js.map",
+    "static/js/2.5787b6dc.chunk.js": "/vocab/static/js/2.5787b6dc.chunk.js",
+    "static/js/2.5787b6dc.chunk.js.map": "/vocab/static/js/2.5787b6dc.chunk.js.map",
+    "static/js/3.24a51eae.chunk.js": "/vocab/static/js/3.24a51eae.chunk.js",
+    "static/js/3.24a51eae.chunk.js.map": "/vocab/static/js/3.24a51eae.chunk.js.map",
+    "index.html": "/vocab/index.html",
+    "static/css/main.aed71bb5.chunk.css.map": "/vocab/static/css/main.aed71bb5.chunk.css.map",
+    "static/js/2.5787b6dc.chunk.js.LICENSE.txt": "/vocab/static/js/2.5787b6dc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52809f3a.js",
+    "static/js/2.5787b6dc.chunk.js",
+    "static/css/main.aed71bb5.chunk.css",
+    "static/js/main.f3333a58.chunk.js"
+  ]
+}
