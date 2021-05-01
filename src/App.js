@@ -1,23 +1,29 @@
-import logo from './logo.svg';
+import React, { useState, useEffect } from 'react';
 import './App.css';
+import data from './data/word.json';
 
 function App() {
+  const wordArray = data.words || [];
+  const [word, setWord] = useState('');
+
+  const getRandomWord = () => wordArray[Math.floor(Math.random() * wordArray.length)];
+  const setRandomWord = () => setWord(getRandomWord());
+
+  useEffect(() => {
+    setRandomWord()
+  }, [])
+
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1>recall the word</h1>
       </header>
+      <section className="App-body">
+        <h2>{word}</h2>
+      </section>
+      <footer className="App-footer">
+        <button onClick={setRandomWord}>Next Word</button>
+      </footer>
     </div>
   );
 }
