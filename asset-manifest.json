@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/vocab/static/css/main.84727104.chunk.css",
-    "main.js": "/vocab/static/js/main.cd3bc1e5.chunk.js",
-    "main.js.map": "/vocab/static/js/main.cd3bc1e5.chunk.js.map",
+    "main.js": "/vocab/static/js/main.b016e59b.chunk.js",
+    "main.js.map": "/vocab/static/js/main.b016e59b.chunk.js.map",
     "runtime-main.js": "/vocab/static/js/runtime-main.52809f3a.js",
     "runtime-main.js.map": "/vocab/static/js/runtime-main.52809f3a.js.map",
     "static/js/2.5787b6dc.chunk.js": "/vocab/static/js/2.5787b6dc.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.52809f3a.js",
     "static/js/2.5787b6dc.chunk.js",
     "static/css/main.84727104.chunk.css",
-    "static/js/main.cd3bc1e5.chunk.js"
+    "static/js/main.b016e59b.chunk.js"
   ]
 }
