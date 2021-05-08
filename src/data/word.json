@@ -55,6 +55,34 @@
         "rubric (n)",
         "categorically (adv)",
         "dazzle (v)",
-        "foe (n)"
+        "foe (n)",
+        "resist (v)",
+        "anecdote (n)",
+        "grok (v)",
+        "empathy (n)",
+        "intuitively (adv)",
+        "instinctively (adv)",
+        "conscious (adj)",
+        "infer (v)"
+
+    ],
+    "futureAddition": [
+        "redundancy (n)",
+        "resilience (n)",
+        "availability (n)",
+        "correlate (v)",
+        "bottleneck (n)",
+        "Throughput",
+        "robust (adj)",
+        "abstraction (n)",
+        "standardize (v)",
+        "specifically (adv)",
+        "firmly (adv)",
+        "increasingly (adv)",
+        "incredibly (adv)",
+        "exhaustive (adj)",
+        "bidirectional",
+        "unidirectional (adj)",
+        "competence (n)"
     ]
 }
